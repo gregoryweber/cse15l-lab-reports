@@ -1,7 +1,7 @@
 # Instructions on Remote Access into an account on "ieng6"
 
 ## 1. Installing Visual Studio Code (VSCode)
-- First, go to the vscode [website](https://code.visualstudio.com/), and click the download button.
+- First, go to the vscode [website](https://code.visualstudio.com/), and click the download button. <br/>
 <img src="https://user-images.githubusercontent.com/36450749/211910195-0732c7fb-37cd-4839-8201-39ead2903b92.png" alt="drawing" width="400">
 
 - After downloading, open a new VSCode window. <br/>
