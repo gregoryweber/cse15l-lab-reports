@@ -1,14 +1,15 @@
 # Instructions on Remote Access into an account on "ieng6"
 
 ## 1. Installing Visual Studio Code (VSCode)
-- First, go to the vscode website, and click the download button. https://code.visualstudio.com/
+- First, go to the vscode [website](https://code.visualstudio.com/), and click the download button.
 <img src="https://user-images.githubusercontent.com/36450749/211910195-0732c7fb-37cd-4839-8201-39ead2903b92.png" alt="drawing" width="400">
 
 - After downloading, open a new VSCode window. <br/>
 <img src="https://user-images.githubusercontent.com/36450749/211910842-aa5105f5-5c9e-47bb-9a0c-d5987d44b8c1.png" alt="drawing" width="400">
 
 
-- ***NOTE:*** When I did this next step, my computer already had git and git bash. If your computer does not have either, you can download both at https://gitforwindows.org/. 
+- ***NOTE:*** When I did this next step, my computer already had git and git bash. If your computer does not have either, you can download both of them 
+- [here](https://gitforwindows.org/). 
 - We now are going to switch the default terminal to git bash. In order to do so, press `ctrl + shift + P`and type `Select Default Profile`. <br/>
 ![image](https://user-images.githubusercontent.com/36450749/211911762-deb6dcae-c087-41ad-b694-47ebc7e59fc1.png)
 
@@ -22,8 +23,7 @@
 
 ## 2. Remotely Connecting to "ieng6"
 - ***NOTE:*** make sure you know your username and password for your specific account. Your username should be something like `cs15lwi23_ _ _`, where the last 2 or 3 characters are your specific username characters.
-- If you do not know either your username or your password, please follow the instructions here:
-- https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit
+- If you do not know either your username or your password, please follow the instructions [here](https://docs.google.com/document/d/1hs7CyQeh-MdUfM9uv99i8tqfneos6Y8bDU0uhn1wqho/edit).
 - Now, once you have obtained your username and password, enter the following command in the git bash terminal in VSCode: 
 - `ssh cs15lwi23_ _ _ @ieng6.ucsd.edu`.
 - Again, the last 2 or 3 characters should be your specific username in the command above.
