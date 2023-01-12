@@ -8,8 +8,7 @@
 <img src="https://user-images.githubusercontent.com/36450749/211910842-aa5105f5-5c9e-47bb-9a0c-d5987d44b8c1.png" alt="drawing" width="400">
 
 
-- ***NOTE:*** When I did this next step, my computer already had git and git bash. If your computer does not have either, you can download both of them 
-- [here](https://gitforwindows.org/). 
+- ***NOTE:*** When I did this next step, my computer already had git and git bash. If your computer does not have either, you can download both of them [here](https://gitforwindows.org/). 
 - We now are going to switch the default terminal to git bash. In order to do so, press `ctrl + shift + P`and type `Select Default Profile`. <br/>
 ![image](https://user-images.githubusercontent.com/36450749/211911762-deb6dcae-c087-41ad-b694-47ebc7e59fc1.png)
 
